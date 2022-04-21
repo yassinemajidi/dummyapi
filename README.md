@@ -14,7 +14,7 @@ This API is accessible via this link: [DummyApi][1].
 3. Delete a Post using a long click.
 4. Search Posts by tag.
 5. Create a Post.
-6. Add the ability to fetch more Posts using infinite scroll loading (from the end of the list).
+6. Fetch more Posts using infinite scroll loading (from the end of the list).
 
 ## Work Group
 

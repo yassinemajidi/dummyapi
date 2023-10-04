@@ -1,7 +1,10 @@
 DummyApi
 ========
 
-mobile app that allows to manage a list of Posts retrieved from the REST API DummyApi.
+<img src="https://raw.githubusercontent.com/yassinemajidi/dummyapi/gif-br/ezgif-3-1ec984c317.gif" width="150" />
+
+
+Sample mobile app that allows to manage a list of Posts retrieved from a REST API writen with Kotlin.
 
 This API is accessible via this link: [DummyApi][1].
 

@@ -19,12 +19,6 @@ This API is accessible via this link: [DummyApi][1].
 5. Create a Post.
 6. Fetch more Posts using infinite scroll loading (from the end of the list).
 
-## Work Group
-
-- Yassine Majidi
-- Yassine Zarqquaoui
-- Leila Sbaa
-
 ## Project video
 
 Watch the main features of the project: [Youtube](https://youtu.be/jWNcgdViMcE)
